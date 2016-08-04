@@ -1,0 +1,30 @@
+html{
+	background-color: lightgreen;
+}
+*{margin: 0; padding: 0}
+
+#rzeka{
+    background-color: blue;
+}
+
+.meerkatStyling{
+    padding: 0 10px 0 10px;
+}
+
+.meerkat{
+    //border: solid 1px;
+}
+
+.invisible{
+    visibility: hidden;
+}
+
+.highlighted{
+   background-color: green;
+}
+
+.crocodile{
+    text-align: center;
+}
+
+
